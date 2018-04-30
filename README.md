@@ -1,2 +1,2 @@
 # wind
-A go interface for wind financial terminal.
+A go wrapper of dll for python interface of wind financial terminal.
