@@ -1,7 +1,7 @@
 # wind
 A go wrapper of python addin dll of wind financial terminal.
 
-This program can only be run on Windows. You must have a valid wind and python addin installed.
+This package can only be used on Windows. You must have a valid wind and python addin installed.
 
 A short test.
 
