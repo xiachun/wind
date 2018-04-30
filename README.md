@@ -11,7 +11,7 @@ package main
 import (
 	"fmt"
 
-	"naturebridge-asset.com/wind"
+	"github.com/xiachun/wind"
 )
 
 func main() {
