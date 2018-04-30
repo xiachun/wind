@@ -1,2 +1,2 @@
 # wind
-A wind interface for go.
+A go interface for wind financial terminal.
